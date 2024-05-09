@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "59926507696",
+    "project_id": "medicare-c4ddf",
+    "storage_bucket": "medicare-c4ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59926507696:android:16f247f43c17d983a68b75",
+        "android_client_info": {
+          "package_name": "com.example.medicare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59926507696-iaiu47engq5g4pv99mjds9ivmlnclncb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medicare",
+            "certificate_hash": "5f49e790df623a275e38adbed62c7722f0b808b6"
+          }
+        },
+        {
+          "client_id": "59926507696-qbkn2vm22ou4fi84q6n35q5ri54i7ve7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANxY31da5LgeovJ53BdDTha8vxUaffkes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59926507696-qbkn2vm22ou4fi84q6n35q5ri54i7ve7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

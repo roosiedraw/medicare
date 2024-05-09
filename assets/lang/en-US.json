@@ -1,0 +1,17 @@
+
+
+{
+    "Home": {
+        "ekle": "ADD",
+        "ekleIlac": "Add Pill",
+        "ekleTedavi": "Add Follow",
+        "ekleDoktor": "Add Doctor",
+        "bottomnavAnasayfa": "Home",
+        "bottomnavIlaclarim": "My Pills",
+        "bottomnavTakiplerim": "My Follows ",
+        "bottomnavDoktorum": "My Doctor",
+        "ilacEkle":"Add Pill",
+        "TakipEkle":"Add Follow",
+        "RandevuEkle":"Add Apponintment"
+    }
+}

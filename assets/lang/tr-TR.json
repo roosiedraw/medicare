@@ -1,0 +1,21 @@
+
+
+{
+    "Home": {
+        "ekle": "EKLE",
+        "ekleIlac": "İlaç Ekle",
+        "ekleTedavi": "Takip Ekle",
+        "ekleDoktor": "Doktor Ekle",
+        "bottomnavAnasayfa": "Anasayfa",
+        "bottomnavIlaclarim": "İlaçlarım",
+        "bottomnavTakiplerim": "Takiplerim",
+        "bottomnavDoktorum": "Doktorum",
+        "ilacEkle":"İlaç Ekle",
+        "TakipEkle":"Takip Ekle",
+        "RandevuEkle":"Randevu Ekle",
+        "IlacTakibiEkle":"İlaç Takibi Ekle",
+        "veriBekle":"Veri Bekleniyor"
+    }
+    
+    
+}
